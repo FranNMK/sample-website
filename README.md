@@ -28,8 +28,7 @@ This project serves as hands-on practice for learning web development fundamenta
 
 ## 🌐 Live Preview
 
-> *(Optional)*  
-If published via GitHub Pages, your site will be visible here:  
+
 **https://frannmk.github.io/sample-website/**
 
 ## 🧠 Author
